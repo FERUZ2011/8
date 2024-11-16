@@ -1,0 +1,15 @@
+button{
+background-color: brown;
+color: white;
+front size: 25px;
+margin:20px 0 0 5px
+}
+form{
+    width: 175px;
+    height: auto;
+    background-color: aqua;
+}
+label{
+width: 100%;
+display: block;
+}
